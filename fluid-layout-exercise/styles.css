@@ -1,0 +1,36 @@
+
+
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+header {
+  background-color: rgb(20, 133, 170);
+}
+
+h1 {
+  color: rgb(243, 243, 248);
+  margin-left: 20px;
+}
+columns {
+  background-color: rgb(35, 172, 131);
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+}
+footer {
+  background-color: rgb(143, 209, 67);
+}
+
+h1 {
+  color: rgb(26, 26, 39);
+  margin-left: 20px;
+}
